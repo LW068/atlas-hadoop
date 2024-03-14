@@ -4,4 +4,4 @@
 hdfs dfs -mkdir -p /holbies
 
 # creating the /holbies/input directory in HDFS
-hdfs dfs -mkdir -p /holbies/inputcd ..
+hdfs dfs -mkdir -p /holbies/input
